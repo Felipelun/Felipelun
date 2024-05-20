@@ -1,7 +1,7 @@
 Hi, I’m @Felipelun
 
 👀 I’m interested in applying data science to different kinds of organizations, especially in business analytics.
-🌱 I’m currently learning Data Science at Triplete.
+🌱 I’m currently learning Data Science at Tripleten.
 💞️ I’m looking to collaborate on data science projects to improve business sales.
 📫 How to reach me: my email address is felipeluna7111@gmail.com; my mobile number is +57 304 545 0696.
 😄 Pronouns: He/Him
